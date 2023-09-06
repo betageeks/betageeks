@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @betageeks
 - 👀 I’m interested in App Devlopment
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on 
 - 📫 reach me here badatcms@gmail.com
 
 <!---
